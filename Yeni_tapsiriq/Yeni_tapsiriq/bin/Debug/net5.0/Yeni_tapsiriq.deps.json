@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Yeni_tapsiriq/1.0.0": {
+        "runtime": {
+          "Yeni_tapsiriq.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Yeni_tapsiriq/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

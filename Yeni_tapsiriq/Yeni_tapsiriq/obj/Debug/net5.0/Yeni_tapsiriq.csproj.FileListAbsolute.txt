@@ -1,0 +1,16 @@
+C:\Users\Tahir Xalilov\.vscode\Contacts\Desktop\Kodlar\Animal\Yeni_tapsiriq\Yeni_tapsiriq\obj\Debug\net5.0\Yeni_tapsiriq.csproj.AssemblyReference.cache
+C:\Users\Tahir Xalilov\.vscode\Contacts\Desktop\Kodlar\Animal\Yeni_tapsiriq\Yeni_tapsiriq\obj\Debug\net5.0\Yeni_tapsiriq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tahir Xalilov\.vscode\Contacts\Desktop\Kodlar\Animal\Yeni_tapsiriq\Yeni_tapsiriq\obj\Debug\net5.0\Yeni_tapsiriq.AssemblyInfoInputs.cache
+C:\Users\Tahir Xalilov\.vscode\Contacts\Desktop\Kodlar\Animal\Yeni_tapsiriq\Yeni_tapsiriq\obj\Debug\net5.0\Yeni_tapsiriq.AssemblyInfo.cs
+C:\Users\Tahir Xalilov\.vscode\Contacts\Desktop\Kodlar\Animal\Yeni_tapsiriq\Yeni_tapsiriq\obj\Debug\net5.0\Yeni_tapsiriq.csproj.CoreCompileInputs.cache
+C:\Users\Tahir Xalilov\.vscode\Contacts\Desktop\Kodlar\Animal\Yeni_tapsiriq\Yeni_tapsiriq\bin\Debug\net5.0\Yeni_tapsiriq.exe
+C:\Users\Tahir Xalilov\.vscode\Contacts\Desktop\Kodlar\Animal\Yeni_tapsiriq\Yeni_tapsiriq\bin\Debug\net5.0\Yeni_tapsiriq.deps.json
+C:\Users\Tahir Xalilov\.vscode\Contacts\Desktop\Kodlar\Animal\Yeni_tapsiriq\Yeni_tapsiriq\bin\Debug\net5.0\Yeni_tapsiriq.runtimeconfig.json
+C:\Users\Tahir Xalilov\.vscode\Contacts\Desktop\Kodlar\Animal\Yeni_tapsiriq\Yeni_tapsiriq\bin\Debug\net5.0\Yeni_tapsiriq.runtimeconfig.dev.json
+C:\Users\Tahir Xalilov\.vscode\Contacts\Desktop\Kodlar\Animal\Yeni_tapsiriq\Yeni_tapsiriq\bin\Debug\net5.0\Yeni_tapsiriq.dll
+C:\Users\Tahir Xalilov\.vscode\Contacts\Desktop\Kodlar\Animal\Yeni_tapsiriq\Yeni_tapsiriq\bin\Debug\net5.0\ref\Yeni_tapsiriq.dll
+C:\Users\Tahir Xalilov\.vscode\Contacts\Desktop\Kodlar\Animal\Yeni_tapsiriq\Yeni_tapsiriq\bin\Debug\net5.0\Yeni_tapsiriq.pdb
+C:\Users\Tahir Xalilov\.vscode\Contacts\Desktop\Kodlar\Animal\Yeni_tapsiriq\Yeni_tapsiriq\obj\Debug\net5.0\Yeni_tapsiriq.dll
+C:\Users\Tahir Xalilov\.vscode\Contacts\Desktop\Kodlar\Animal\Yeni_tapsiriq\Yeni_tapsiriq\obj\Debug\net5.0\ref\Yeni_tapsiriq.dll
+C:\Users\Tahir Xalilov\.vscode\Contacts\Desktop\Kodlar\Animal\Yeni_tapsiriq\Yeni_tapsiriq\obj\Debug\net5.0\Yeni_tapsiriq.pdb
+C:\Users\Tahir Xalilov\.vscode\Contacts\Desktop\Kodlar\Animal\Yeni_tapsiriq\Yeni_tapsiriq\obj\Debug\net5.0\Yeni_tapsiriq.genruntimeconfig.cache
